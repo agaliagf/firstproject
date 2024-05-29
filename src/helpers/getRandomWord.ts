@@ -1,12 +1,12 @@
-let words: string[] = [
-  'COMPUTADORA',
-  'AGUACATE',
-  'CANDELO',
-  'MAGUI',
+const words: string[] = [
+  'COMPUTADOR',
+  'ABACATE',
+  'PROGRAMADOR',
+  'AMARELO',
   'BLENDER',
-  'FREDDY',
-  'MAYKELL',
-  'MERWE'
+  'ESTUDANTE',
+  'SISTEMA',
+  'DEVELOPER'
 ]
 
 export function getRandomWord() {
